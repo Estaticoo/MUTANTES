@@ -12,7 +12,7 @@ COPY gradle ./gradle
 COPY src ./src
 
 # Da permisos de ejecución al wrapper de Gradle y construye el jar
-RUN chmod +x ./gradlew && ./gradlew bootJar --no-daemon
+RUN chmod +x gradlew && gradlew bootJar --no-daemon
 
 # Etapa de ejecución
 FROM openjdk:17-alpine
