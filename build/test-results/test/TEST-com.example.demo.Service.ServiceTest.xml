@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.example.demo.Service.ServiceTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2024-10-12T22:38:03" hostname="DESKTOP-P9D6UUB" time="0.02">
+  <properties/>
+  <testcase name="mutantTest1()" classname="com.example.demo.Service.ServiceTest" time="0.016"/>
+  <testcase name="mutantTest2()" classname="com.example.demo.Service.ServiceTest" time="0.001"/>
+  <testcase name="mutantTest3()" classname="com.example.demo.Service.ServiceTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
