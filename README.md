@@ -1,4 +1,4 @@
-# Parcial Magneto
+# Mutant - Detector
 
 ## Introduccion
 Magneto quiere reclutar la mayor cantidad de mutantes para poder luchar contra los X-Mens.
@@ -25,7 +25,9 @@ Una vez cargada correctamente la misma, se aplica una función que verifica si h
 
 El proyecto ha sido deployado a Render y puede ser accedido mediante el siguiente link:
 
-https://parcial-magneto.onrender.com
+  1- GET - https://mutantes-w79k.onrender.com/mutant/get en cualquier navegador para obtener todos los registros cargados
+ 2- GET  - https://mutantes-w79k.onrender.com/stats para obtener el servicio del ratio de mutantes sobre personas escaneadas
+ 3- POST - https://mutantes-w79k.onrender.com/mutant (Utilizando POSTMAN y enviando algún ejemplo similar a los de abajo en el BODY) 
 
 ### Endpoints
 
