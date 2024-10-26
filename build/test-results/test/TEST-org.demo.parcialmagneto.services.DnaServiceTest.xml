@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.demo.parcialmagneto.services.DnaServiceTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-10-12T21:35:51" hostname="DESKTOP-P9D6UUB" time="0.016">
+  <properties/>
+  <testcase name="testMutant2()" classname="org.demo.parcialmagneto.services.DnaServiceTest" time="0.016"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
