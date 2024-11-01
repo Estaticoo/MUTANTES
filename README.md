@@ -21,6 +21,10 @@ Ejemplo de input: '**ATCGTA**' (esto equivale a una fila de la matriz)
 
 Una vez cargada correctamente la misma, se aplica una función que verifica si hay presencia en la matriz de mutantes o no y se devuelve el resultado al usuario en base a eso.
 
+##Diagrama de Secuencia
+
+[Starter Sequence Diagram.pdf](https://github.com/user-attachments/files/17604662/Starter.Sequence.Diagram.pdf)
+Poner la vista de pagina doble para una verlo en su esplendor.
 ## Ejecución
 
 El proyecto ha sido deployado a Render y puede ser accedido mediante el siguiente link:
